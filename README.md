@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rey Laurence Nedruda</h1>
-<h3 align="center">IT Graduate & Developer — Web and Mobile &</h3>
+<h3 align="center">IT Graduate & Developer — Web & Mobile </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+web+applications;Building+mobile+apps;Building+full-stack+solutions;Building+GIS+platforms;Building+Flutter+apps" alt="Typing SVG" />
@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:nedrudarey101@gmail.com"><img src="https://img.shields.io/badge/Email-nedrudarey101%40gmail.com-64ffda?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1e" /></a>
+  <a href="tel:+639514619889"><img src="https://img.shields.io/badge/Phone-%2B63%20951%20461%209889-64ffda?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0a0f1e" /></a>
   <img src="https://img.shields.io/badge/Location-South%20Cotabato%2C%20PH-64ffda?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0f1e" />
 </p>
 
@@ -26,29 +27,42 @@ I care about clean code, meaningful user experiences, and building tools that ac
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Frontend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Tools**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Databases & Services**
+**Backend**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-002B5B?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Developer Tools**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GIS Platforms](https://img.shields.io/badge/GIS%20Platforms-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -68,11 +82,8 @@ I care about clean code, meaningful user experiences, and building tools that ac
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **📱 StudyBuddy** — *Mobile App · Capstone*
+🔗 [Live Demo](https://studybuddy-seait.netlify.app/)
 
 A collaborative Android study app featuring group matching, real-time chat, a shared calendar, a gamified quiz system, and progress tracking — designed to boost student accountability and engagement.
 
@@ -82,10 +93,10 @@ A collaborative Android study app featuring group matching, real-time chat, a sh
 
 `Flutter` `Firebase Firestore` `Firebase Functions` `Firebase Auth` `Google Sign-In API`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 **🗺️ PolWD Web GIS** — *Web Platform · Internship*
+🔗 [Live Demo](https://polwd-web-gis.page.gd/)
 
 Production-level frontend and backend enhancements for a live water utility Geographic Information System, expanding operational data visibility and streamlining staff workflows.
 
@@ -95,9 +106,18 @@ Production-level frontend and backend enhancements for a live water utility Geog
 
 `JavaScript` `PHP` `HTML/CSS` `MySQL` `Git`
 
-</td>
-</tr>
-</table>
+<br>
+
+**🏝️ Tupi Tourism System** — *Web App · Full-Stack Project*
+🔗 [Live Demo](https://tupitourism.rf.gd/tourism-system-main/index.php)
+
+A full-stack tourism information system for Tupi, South Cotabato. Visitors can browse and search destinations, leave ratings and comments, build a trip itinerary, and book visits — all backed by a complete admin panel for managing content and users.
+
+- Secure architecture: CSRF protection, PDO prepared statements, bcrypt hashing, and brute-force lockout
+- Admin dashboard with Chart.js analytics for activity logs, bookings, and user engagement
+- Personalized destination feed driven by user-selected interest preferences
+
+`PHP` `MySQL` `PDO` `Bootstrap 5` `Chart.js` `JavaScript`
 
 ---
 
