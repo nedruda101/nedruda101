@@ -55,7 +55,7 @@ I care about clean code, meaningful user experiences, and building tools that ac
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![GIS Platforms](https://img.shields.io/badge/GIS%20Platforms-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 
 **AI**
 
