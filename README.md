@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rey Laurence Nedruda</h1>
-<h3 align="center">IT Graduate & Full-Stack Developer — Web, Mobile & GIS</h3>
+<h3 align="center">IT Graduate &  Developer — Web & Mobile</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+web+applications;Building+mobile+apps;Building+full-stack+solutions;Building+GIS+platforms;Building+Flutter+apps" alt="Typing SVG" />
@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="mailto:nedrudarey101@gmail.com"><img src="https://img.shields.io/badge/Email-nedrudarey101%40gmail.com-64ffda?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1e" /></a>
-  <a href="tel:+639514619889"><img src="https://img.shields.io/badge/Phone-%2B63%20951%20461%209889-64ffda?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0a0f1e" /></a>
   <img src="https://img.shields.io/badge/Location-South%20Cotabato%2C%20PH-64ffda?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0f1e" />
 </p>
 
