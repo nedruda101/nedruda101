@@ -112,11 +112,11 @@ South East Asian Institute of Technology — Tupi, South Cotabato, Philippines
 
 ### 📊 GitHub Stats
 
-> Replace `nedruda101` below with your actual GitHub username for these to render.
+
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1428&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1428&title_color=64ffda&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?nedruda101=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1428&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?nedruda101=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1428&title_color=64ffda&text_color=e2e8f0" />
 </p>
 
 ---
