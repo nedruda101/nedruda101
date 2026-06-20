@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rey Laurence Nedruda</h1>
-<h3 align="center">IT Graduate & Developer — Web & Mobile </h3>
+<h3 align="center">IT Graduate & Full-Stack Developer — Web, Mobile & GIS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+web+applications;Building+mobile+apps;Building+full-stack+solutions;Building+GIS+platforms;Building+Flutter+apps" alt="Typing SVG" />
