@@ -112,7 +112,7 @@ South East Asian Institute of Technology — Tupi, South Cotabato, Philippines
 
 ### 📊 GitHub Stats
 
-> Replace `your-github-username` below with your actual GitHub username for these to render.
+> Replace `nedruda101` below with your actual GitHub username for these to render.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1428&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0" />
